@@ -1,0 +1,13 @@
+/* Reset de estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    background-color: #000000; /* Cor de fundo */
+    color: #db9137; /* Cor do texto */
+    line-height: 1.9; /* Espaçamento entre as linhas */
+}
